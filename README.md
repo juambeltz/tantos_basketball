@@ -6,6 +6,7 @@ El tanteador del equipo que va ganando tiene un borde verde y el que pierde uno 
 
 ## 🧠 Tecnologias usadas
 - javascript
+- html
 
 ## 🌐 Ver app en vivo
-https://juambeltz.github.io/blackJack/
+https://juambeltz.github.io/tantos_basketball/
